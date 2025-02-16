@@ -11,5 +11,7 @@ Class label balance	85% no heart disease, 15% heart disease
 Following Datasets from Kaggle repository are merged as discused above:
 
 https://www.kaggle.com/datasets/prosperchuks/health-dataset
+
 https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
+
 https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression
